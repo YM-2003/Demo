@@ -2,7 +2,7 @@
 using namespace std;
 
 /*2nd commit*/
-
+/*bla bla bla vansh mansotra*/
 int main() {
     char a;
 	cin>>a;
